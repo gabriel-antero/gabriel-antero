@@ -1,4 +1,3 @@
-![Banner Gabriel Antero sem foto](https://user-images.githubusercontent.com/58411170/92648871-865b6280-f2c0-11ea-8c6d-821b84d66cc5.jpg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-antero)](https://github.com/gabriel-antero/github-readme-stats)
 ![Gabriel github stats](https://github-readme-stats.vercel.app/api?username=gabriel-antero&show_icons=true&theme=tokyonight)
