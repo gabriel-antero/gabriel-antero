@@ -1,8 +1,8 @@
 
 ## About me
 
-- 🎓 Formado em Engenharia da Computação
-- 💻 Desenvolvedor Front-End
+- 🎓 Graduated in Computer Engineering
+- 💻 Front-End Developer
   
 ## Languages and Tools:
 
